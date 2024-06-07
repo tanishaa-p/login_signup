@@ -1,6 +1,11 @@
 # login_signup
 
-A new Flutter project.
+
+https://github.com/tanishaa-p/login_signup/assets/143655963/faf8b6cb-1085-465c-95b8-4bd5637180e9
+
+
+In this flutter project, I made a basic Login-Sign up app (without backend) for more practice on widgets and navigation, experimenting more with containers and different attributes aligned to flutter.
+
 
 ## Getting Started
 
