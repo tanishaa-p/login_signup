@@ -11,7 +11,6 @@ class login extends StatelessWidget {
       appBar: AppBar(
         elevation: 0,
         backgroundColor: const Color(0xffE1BEE7),
-        brightness: Brightness.light,
         leading:
         IconButton( onPressed: (){
           Navigator.pop(context);

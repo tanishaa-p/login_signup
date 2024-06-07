@@ -11,7 +11,6 @@ class signup extends StatelessWidget {
       appBar: AppBar(
         elevation: 0,
         backgroundColor: const Color(0xffF8BBD0),
-        brightness: Brightness.light,
         leading:
         IconButton( onPressed: (){
           Navigator.pop(context);
